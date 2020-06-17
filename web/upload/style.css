@@ -1,0 +1,27 @@
+body{
+  background: linear-gradient(rgba(0, 0, 50, 0.5),rgba(0, 0, 50, 0.5)),url(cool.jpg);
+  background-size: auto;
+  background-position: center;
+}
+
+
+.signupbox{
+  max-width: 700px;
+  float: none;
+  margin: 150px auto;
+}
+.signinbox{
+  max-width: 700px;
+  float: none;
+  margin: 150px auto;
+}
+
+.signup{
+  background: rgba(211, 211, 211, 0.5);
+  padding: 30px;
+}
+
+.signin{
+  background: rgba(211, 211, 211, 0.5);
+  padding: 30px;
+}
