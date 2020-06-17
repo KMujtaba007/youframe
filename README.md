@@ -7,11 +7,6 @@ After logging in, you can upload your images on this website.
 Original images can be viewed by simply clicking on the image.
 
 xampp server is used in this website development.
-Database details are:
-$servername = "localhost";
-$username = "root";
-$password = "root";
-$dbname = "gallery";
 
 Assets used:
 
